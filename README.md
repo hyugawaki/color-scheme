@@ -15,13 +15,13 @@
 4. 5色、配色されます
 
 ## 使用技術
-*フロントエンド*
+**フロントエンド**
 HTML / CSS / Tailwind CSS / TypeScript / React
 
-*バックエンド*
+**バックエンド**
 なし
 
-*その他*
+**その他**
 git(GitHub) / Visual Studio Code
 
 ## 経緯
