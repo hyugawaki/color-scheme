@@ -5,7 +5,7 @@
 
 ## デモ
 
-[Color Scheme Generator]()
+[Color Scheme Generator](https://hyuga-colorschemegenerator.netlify.app/)
 
 ## 使い方
     1. 好きな色を1色選びます
