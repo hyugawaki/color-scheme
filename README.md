@@ -14,6 +14,16 @@
 3. "Get color scheme"を押します
 4. 5色、配色されます
 
+## 使用技術
+*フロントエンド*
+HTML / CSS / Tailwind CSS / TypeScript / React
+
+*バックエンド*
+なし
+
+*その他*
+git(GitHub) / Visual Studio Code
+
 ## 経緯
 
 - [Scrimba](https://scrimba.com/scrim/co73343ea8c93c5d396d7ac67)の Solo Project の 1 つだったため
