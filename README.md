@@ -4,7 +4,7 @@
 カラーパレットを作成する配色ジェネレーターです。
 
 ## デモ
-
+![Color Scheme Generator Screenshot](../color-scheme-generator/src/assets/png/website.png)
 [Color Scheme Generator](https://hyuga-colorschemegenerator.netlify.app/)
 
 ## 使い方
