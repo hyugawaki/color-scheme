@@ -11,7 +11,7 @@ export const ColorPicker = ({ value, onChange }: GetColorProps) => {
       type="color"
       value={value}
       onChange={onChange}
-      className="h-8 my-auto bg-white cursor-pointer" 
+      className="lg:my-auto sm:bg-white bg-black place-self-center rounded h-8 cursor-pointer" 
     />
   );
   return <>{colorPicker}</>;

@@ -84,7 +84,7 @@ export default function App() {
       >
         Color Scheme
       </h1>
-      <div className="flex pb-4 gap-x-4">
+      <div className="lg:flex lg:gap-x-4 grid gap-y-4 pb-8">
         <ColorPicker value={color} onChange={handleColorChange} />
         <SelectBox
           options={options}
@@ -100,7 +100,7 @@ export default function App() {
         }`}
       >
         {colorScheme.map((color) => (
-          <div className="lg:flex-col lg:m-0 lg:gap-0 flex gap-2 mb-4 mr-4">
+          <div className="lg:flex-col lg:m-0 lg:gap-0 sm:flex gap-2 mb-4 mr-4">
             <div
               style={{ backgroundColor: color }}
               className="h-10 w-10 lg:h-[25rem] lg:w-[6.875rem] rounded "
